@@ -16,6 +16,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
 ### :woman_technologist: About Me :
 I am Software Engineer/ Backend Developer <img src= "https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="30"> from India
@@ -28,4 +29,22 @@ Here are some ideas to get you started:
 - ⚡I developed hands on projects for each topics i am learning like Multithreading,Exceptions Handling,Streams,Lamda Expression,Method reference
 - 🎄I am developing a REST API for TODO Application which contains the Pagination,Sorting,Basic adding more features to the API
 - 🏃I am giving contest every sunday to imporve my coding skills on the Data Structures and Algorithms
-<hr>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width = "40" height = "40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhulipalasrikanth98&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhulipalasrikanth98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
